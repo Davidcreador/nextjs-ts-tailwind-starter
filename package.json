@@ -1,5 +1,5 @@
 {
-  "name": "upfresh-app",
+  "name": "nextjs-typescript-tailwindcss-starter",
   "version": "1.0.0",
   "scripts": {
     "dev": "next",
